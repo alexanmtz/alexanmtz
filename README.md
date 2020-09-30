@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Alexandre Magno, a senior software engineer from Brazil living in Copenhagen 
 
-Here are some ideas to get you started:
+A little about me:
 
 - 🔭 I’m currently working on Danske Bank
 - 🌱 I’m currently learning TypeScript
