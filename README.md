@@ -10,7 +10,6 @@ A little about me:
 - 💬 Ask me about science
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I created the software Lucifer, that answer all your questions - lucifer-msdos.com
--->
 
 ### And That's my activity
 
