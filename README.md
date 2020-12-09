@@ -9,7 +9,7 @@ A little about me:
 - 🤔 I’m looking for learning
 - 💬 Ask me about science
 - 📫 How to reach me: alexanmtz@gmail.com
-- ⚡ Fun fact: I created the software Lucifer, that answer all your questions - lucifer-msdos.com
+- ⚡ Fun fact: I created the software Lucifer, that answer all your questions - http://lucifer-msdos.com
 
 ### And That's my activity
 
