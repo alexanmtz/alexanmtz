@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alexandre Magno, a lead software engineer from Brazil living in Copenhagen and kinda of Nomad 🗺️ 
+### Hi there 👋, I'm Alexandre Magno, a lead software engineer currently at Cluedin
 
 A little about me:
 
