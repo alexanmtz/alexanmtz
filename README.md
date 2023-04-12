@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alexandre Magno, a lead software engineer currently at Cluedin
+### Hi there 👋, I'm Alexandre Magno, a senior software engineer currently at Banking Circle
 
 A little about me:
 
