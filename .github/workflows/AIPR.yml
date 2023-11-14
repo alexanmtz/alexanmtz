@@ -19,4 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: AIPR
+      env:
+        OPEN_AI_API_KEY: ${{ secrets.OPEN_AI_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       uses: alexanmtz/AIPR@main
