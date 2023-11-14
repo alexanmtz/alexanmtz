@@ -17,12 +17,12 @@ jobs:
              github.event.issue.pull_request &&
              contains( github.event.comment.body, 'Create PR with AIPR')) }}
     runs-on: ubuntu-latest
-    env:
-        OPEN_AI_API_KEY: ${{ secrets.OPEN_AI_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
     - name: AIPR
       uses: alexanmtz/AIPR@main
+      env:
+        OPEN_AI_API_KEY: ${{ secrets.OPEN_AI_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         OPEN_API_KEY: ${{ env.OPEN_AI_API_KEY }}
         GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
