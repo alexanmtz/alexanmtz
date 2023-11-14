@@ -10,7 +10,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  chatgpt-code-generation:
+  AIPR:
     if: ${{ (github.event_name == 'issues' && 
              contains( github.event.label.name, 'AIPR')) || 
             (github.event_name == 'issue_comment' && 
