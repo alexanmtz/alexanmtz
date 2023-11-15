@@ -21,10 +21,9 @@ jobs:
     - name: Output
       shell: bash
       run: |
-        echo "Dump secrets ${{ vars.OPEN_AI_API_KEY }}"
-        echo "Open API API key test ${{ secrets.OPEN_AI_API_KEY }}"
+        echo "Open API API key test ${{ secrets.OPENAI_API_KEY }}"
     - name: AIPR
       uses: alexanmtz/AIPR@main
       with:
-        openai_api_key: ${{ secrets.OPEN_AI_API_KEY }}
+        openai_api_key: ${{ secrets.OPENAI_API_KEY }}
         #github_token: ${{ secrets.GITHUB_TOKEN }}
