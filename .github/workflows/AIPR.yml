@@ -21,7 +21,7 @@ jobs:
     - name: Output
       shell: bash
       run: |
-        echo "Dump secrets ${{ secrets.AutoPR.OPEN_AI_API_KEY }}"
+        echo "Dump secrets ${{ vars.OPEN_AI_API_KEY }}"
         echo "Open API API key test ${{ secrets.OPEN_AI_API_KEY }}"
     - name: AIPR
       uses: alexanmtz/AIPR@main
