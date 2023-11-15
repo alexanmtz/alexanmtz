@@ -20,6 +20,6 @@ jobs:
     steps:
     - name: AIPR
       uses: alexanmtz/AIPR@main
-      env:
-        OPEN_AI_API_KEY: ${{ secrets.OPEN_AI_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        openai_api_key: ${{ secrets.OPEN_AI_API_KEY }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
