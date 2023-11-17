@@ -26,4 +26,3 @@ jobs:
       uses: alexanmtz/AIPR@main
       with:
         openai_api_key: ${{ secrets.OPENAI_API_KEY }}
-        #github_token: ${{ secrets.GITHUB_TOKEN }}
