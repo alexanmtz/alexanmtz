@@ -10,7 +10,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  AIPR:
+  Creating-PR-using-AIPR:
     if: ${{ (github.event_name == 'issues' && 
              contains( github.event.label.name, 'AIPR')) || 
             (github.event_name == 'issue_comment' && 
@@ -18,11 +18,7 @@ jobs:
              contains( github.event.comment.body, 'Create PR with AIPR')) }}
     runs-on: ubuntu-latest
     steps:
-    - name: Output
-      shell: bash
-      run: |
-        echo "Open API API key test ${{ secrets.OPENAI_API_KEY }}"
-    - name: AIPR
+    - name: Executing AIPR action
       uses: alexanmtz/AIPR@main
       with:
         openai_api_key: ${{ secrets.OPENAI_API_KEY }}
