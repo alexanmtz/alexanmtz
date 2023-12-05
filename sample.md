@@ -10,4 +10,4 @@ A little about me:
 - 📖 I’m always learning, especially because there are more JS frameworks than people :p
 - 💬 Ask me about science
 - 📫 How to reach me: alexanmtz@gmail.com
-- ⚡ Fun fact: I re-created the software Lucifer, which answers all
+- ⚡ Fun fact: I re-created the software Lucifer, which answers
