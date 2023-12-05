@@ -1,3 +1,5 @@
+.
+
 Hi there 👋, I'm Alexandre Magno, a senior software engineer currently at Banking Circle
 
 A little about me:
@@ -11,3 +13,5 @@ A little about me:
 - 💬 Ask me about science
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all
+
+Made by AIPR
