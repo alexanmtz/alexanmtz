@@ -14,6 +14,13 @@ A little about me:
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all
 
+Experience in Conferences:
+
+- JS Conf EU 2018 - Attended to learn about the latest trends in web development
+- React Europe 2019 - Participated as a speaker, discussing the use of React in enterprise applications
+- GraphQL Summit 2020 - Joined as a workshop instructor, teaching developers how to integrate GraphQL into their applications
+- Open Source Conference 2021 - Attended to network with other open-source enthusiasts and contribute to various projects
+
 Made by AIPR
 
 Added another using AIPR
