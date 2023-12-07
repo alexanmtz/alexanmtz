@@ -12,6 +12,14 @@ A little about me:
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all your questions - http://lucifer-msdos.com
 
-### And That's my activity
+### Some conferences I've been speaking:
+
+- Speaker at the Fluent Conference in 2016 - Web development conference by O'Reilly Media
+- Speaker at the Solutions Architect Summit in 2017 - Event focused on cloud computing and AWS services
+- Speaker at the FullStack Conference in 2018 - Event focused on JavaScript and web development
+- Speaker at the International JavaScript Conference 2019 - Conference for developers and software engineers
+- Speaker at the International PHP Conference 2021 - Conference focused on PHP language and web development
+
+### And That's my activity:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexanmtz)](https://github.com/anuraghazra/github-readme-stats)
