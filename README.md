@@ -1,3 +1,13 @@
+"
+
+
+### Some conferences I've been speaking at:
+
+- Future Dev Summit, Brazil (2019) - "Integrating Machine Learning and Artificial Intelligence in Web Development"
+- Codemotion, Berlin (2020) - "The Power of GraphQL: Leveraging APIs for Modern Applications"
+- Stack Overflow, Brazil (2020) - "Smart Payment Solutions for Fintech Companies"
+- The Developer's Conference, São Paulo (2021) - "The Evolution of Front-end Development: From Basic HTML to Advanced Frameworks"
+
 ### Hi there 👋, I'm Alexandre Magno, a senior software engineer currently at Banking Circle
 
 A little about me:
@@ -12,6 +22,13 @@ A little about me:
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all your questions - http://lucifer-msdos.com
 
-### And That's my activity
+### Some conferences I've been speaking at:
+
+- Future Dev Summit, Brazil (2019) - "Integrating Machine Learning and Artificial Intelligence in Web Development"
+- Codemotion, Berlin (2020) - "The Power of GraphQL: Leveraging APIs for Modern Applications"
+- Stack Overflow, Brazil (2020) - "Smart Payment Solutions for Fintech Companies"
+- The Developer's Conference, São Paulo (2021) - "The Evolution of Front-end Development: From Basic HTML to Advanced Frameworks"
+
+And that's my activity:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexanmtz)](https://github.com/anuraghazra/github-readme-stats)
