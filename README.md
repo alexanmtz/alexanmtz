@@ -1,3 +1,5 @@
+## Some conferences I've been speaking
+
 ### Hi there 👋, I'm Alexandre Magno, a senior software engineer currently at Banking Circle
 
 A little about me:
@@ -12,6 +14,16 @@ A little about me:
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all your questions - http://lucifer-msdos.com
 
-### And That's my activity
+## Some conferences I've been speaking
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexanmtz)](https://github.com/anuraghazra/github-readme-stats)
+Besides my professional experience, I've also been sharing my knowledge and insights through public speaking at various conferences. Some notable conferences where I've been a speaker include:
+
+- FISL - International Free Software Forum - Porto Alegre, Brazil (2008)
+- Web Braga - Braga, Portugal (2011)
+- MagmaConf - Manzanillo, Mexico (2019)
+- Codecamp Cluj-Napoca - Cluj-Napoca, Romania (2019)
+- DevConf - Brno, Czech Republic (2020)
+- CodeEurope - Krakow, Poland (2021)
+- World Web Forum - Zurich, Switzerland (2021)
+
+With each conference, I've had the opportunity to connect with like-minded individuals and share my insights on various topics related to software engineering, including blockchain technology, front-end development
