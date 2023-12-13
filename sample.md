@@ -1,5 +1,3 @@
-.
-
 Hi there 👋, I'm Alexandre Magno, a senior software engineer currently at Banking Circle
 
 A little about me:
@@ -20,6 +18,8 @@ Experience in Conferences:
 - React Europe 2019 - Participated as a speaker, discussing the use of React in enterprise applications
 - GraphQL Summit 2020 - Joined as a workshop instructor, teaching developers how to integrate GraphQL into their applications
 - Open Source Conference 2021 - Attended to network with other open-source enthusiasts and contribute to various projects
+- The Global List Conference 2022 - Participated as a panelist, discussing the impact of technology and entrepreneurship in emerging markets
+- World Summit AI 2023 - Joined as a keynote speaker, sharing insights and strategies on using AI for social good and ethical data practices
 
 Made by AIPR
 
