@@ -40,3 +40,4 @@
 - Editing 
 - Data Science 
 - Machine Learning
+- Blogging: I have a blog at https://alexandremagno.net where I write about software development.
