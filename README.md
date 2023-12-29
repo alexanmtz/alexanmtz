@@ -11,6 +11,7 @@ A little about me:
 - 💬 Ask me about science
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all your questions - http://lucifer-msdos.com
+- 🌐 I also have a blog where I write about software development: https://alexandremagno.net/
 
 # Some conferences I've been speaking
 
