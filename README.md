@@ -12,6 +12,7 @@ A little about me:
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all your questions - http://lucifer-msdos.com
 - 🌐 I also have a blog where I write about software development: https://alexandremagno.net/
+- 🚴‍♂️ My hobbies include cycling, tinkering with Arduino, photography, and playing music. 
 
 # Some conferences I've been speaking
 
@@ -23,6 +24,4 @@ A little about me:
 - FISL 13 (2013) and FISL 14 (2014): "Bootstrap and Developing jQuery UI Plugins with Jasmine Testing"
 
 ### And That's my activity
-
-- 🚴‍♂️ My hobbies include cycling, tinkering with Arduino, photography, and playing music. 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexanmtz)](https://github.com/anuraghazra/github-readme-stats)
