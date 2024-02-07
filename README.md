@@ -24,4 +24,5 @@ A little about me:
 
 ### And That's my activity
 
+- 🚴‍♂️ My hobbies include cycling, tinkering with Arduino, photography, and playing music. 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexanmtz)](https://github.com/anuraghazra/github-readme-stats)
