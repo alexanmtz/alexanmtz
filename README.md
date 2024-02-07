@@ -4,7 +4,7 @@ A little about me:
 
 - 🔭 I’m currently working at Banking Circle as a senior software engineer
 - 🏠 I'm from Teófilo Otoni, Minas Gerais, Brazil, a small city in the countryside
-- 🌱 I’m currently learning GitHub Actions, GraphQL and playing around with Open AI
+- 🌱 I’m currently learning GitHub Actions, GraphQL and playing around with Open AI with [AIPR](https://github.com/marketplace/actions/creates-a-pr-to-solve-an-issue-using-chatgpt)
 - 👯 I've been working with app development, payment APIs, and now banking operations and high-scale front-ends
 - 💻 I’m looking to collaborate on open-source software with Gitpay (https://gitpay.me)
 - 📖 I’m always learning, especially because there are more JS frameworks than people :p
