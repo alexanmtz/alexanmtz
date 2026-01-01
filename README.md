@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alexandre Magno, a senior software engineer currently working at Banking Circle
+### Hi there 👋, I'm Alexandre Magno, a senior software engineer
 
 A little about me:
 
