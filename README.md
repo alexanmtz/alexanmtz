@@ -3,15 +3,14 @@
 A little about me:
 
 - 🏠 I'm from Teófilo Otoni, Minas Gerais, Brazil, a small city in the countryside
-- 🌱 I’m currently learning GitHub Actions, GraphQL and playing around with Open AI with [AIPR](https://github.com/marketplace/actions/creates-a-pr-to-solve-an-issue-using-chatgpt)
+- 🌱 I’m currently learning AI-based user experiences with [Curios](https://curios-browser.vercel.app/)
 - 👯 I've been working with app development, payment APIs, and now banking operations and high-scale front-ends
 - 💻 I’m looking to collaborate on open-source software with Gitpay (https://gitpay.me)
 - 📖 I’m always learning, especially because there are more JS frameworks than people :p
-- 💬 Ask me about science
 - 📫 How to reach me: alexanmtz@gmail.com
 - ⚡ Fun fact: I re-created the software Lucifer, which answers all your questions - http://lucifer-msdos.com
 - 🌐 I also have a blog where I write about software development: https://alexandremagno.net/
-- 🚴‍♂️ My hobbies include cycling, tinkering with Arduino, photography, and playing music. 
+- 🚴‍♂️ My hobbies include cycling, nerd projects with Arduino, photography, and playing music. 
 
 # Some conferences I've been speaking
 
