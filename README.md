@@ -3,7 +3,7 @@
 A little about me:
 
 - 🏠 I'm from Teófilo Otoni, Minas Gerais, Brazil, a small city in the countryside
-- 🌱 I’m currently learning AI-based user experiences by developing [Curios](https://curios-browser.vercel.app/)
+- 🌱 I’m currently learning AI-based user experiences by developing [Curios](https://trycurios.com)
 - 👯 I've been working with app development, payment APIs, and now banking operations and high-scale front-ends
 - 💻 I’m looking to collaborate on open-source software with Gitpay (https://gitpay.me)
 - 📖 I’m always learning, especially because there are more JS frameworks than people :p
